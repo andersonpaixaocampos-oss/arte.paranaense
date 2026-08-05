@@ -1,6 +1,6 @@
 body{
     background-color: 00FF33;
-    color:rgb(0, 0, 0);
+    color:rgb(30, 255, 0);
     font-family:arial, sans-serif;
 }
 header {
@@ -13,7 +13,7 @@ h1 {
     font-size: 36px;
 }
 h2{
-    color:rgb(254, 255, 253)
+    color:rgb(128, 255, 0);
 }
 p{
     font-size: 18px;
