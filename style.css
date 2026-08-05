@@ -1,5 +1,5 @@
 body{
-    background-color: 00FF33;
+    background-color: #00FF33;
     color:rgb(30, 255, 0);
     font-family:arial, sans-serif;
 }
@@ -13,7 +13,7 @@ h1 {
     font-size: 36px;
 }
 h2{
-    color:rgb(128, 255, 0);
+    color:rgb(241, 245, 237);
 }
 p{
     font-size: 18px;
