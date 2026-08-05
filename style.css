@@ -1,1 +1,21 @@
-
+body{
+    background-color: 00FF33;
+    color:black;
+    font-family:arial, sans-serif;
+}
+header {
+    background-color: chartreuse;
+    color:aliceblue;
+    text-align: center;
+    padding: 30px;
+}
+h1 {
+    font-size: 36px;
+}
+h2{
+    color:aliceblue
+}
+p{
+    font-size: 18px;
+    line-height: 1.6;
+}
