@@ -2,6 +2,7 @@ body{
     background-color: #00FF33;
     color:rgb(30, 255, 0);
     font-family:arial, sans-serif;
+    margin: 0;
 }
 header {
     background-color: chartreuse;
@@ -18,4 +19,30 @@ h2{
 p{
     font-size: 18px;
     line-height: 1.6;
+}
+main {
+    with:80%;
+    margin:auto;
+ nav }
+ margin-top; 20px
+
+ nav a 
+selection {
+    blackground-color: green
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 12px;
+}
+img {
+    width: 100%;
+    max-width:600px;
+    display: block;
+    margin: auto;
+    border-radius: 12px;
+}
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    color:#00FF33;
+    margin-top: 8px;
 }
