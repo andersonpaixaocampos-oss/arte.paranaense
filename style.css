@@ -64,7 +64,7 @@ img {
 figcaption {
     text-align: center;
     font-size: 14px;
-    color: #00FF33;
+    color: #ffffff;
     margin-top: 8px;
 }
 
@@ -72,7 +72,7 @@ figcaption {
     background-color: aqua;
     padding: 15px;
     margin: 15px;
-    border-left: 6px solid #00FF33;
+    border-left: 6px solid #445717;
     border-radius: 10px;
 }
 
@@ -90,8 +90,8 @@ footer {
 
 
 button {
-    background-color: darkgreen;
-    color: rgb(106, 170, 106);
+    background-color: rgb(143, 143, 143);
+    color: rgb(0, 0, 0);
     border: none;
     padding: 10px 15px;
     border-radius: 8px;
@@ -99,7 +99,7 @@ button {
 }
 
 button:hover {
-    background-color: forestgreen;
+    background-color: rgb(255, 255, 255);
 }
 
 .curtir {
