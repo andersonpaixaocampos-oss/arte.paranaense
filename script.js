@@ -1,21 +1,22 @@
-const botoescurti= document.querySelectorAll(".curtir");
-botoesCurtir.forEach(function(botoescurtir){
-    let curtir = false;
-    botoesCurtir.addEventlistener(click,curtir);
+const botoesCurtir= document.querySelectorAll(".curtir");
+botoesCurtir.forEach(function(botaoCurtir){
+    let curtiu = false;
+    botaoCurtir.addEventListener("click",curtir);
     function curtir (){
-        const contador = botaoCurtir.queryselector("span");
+        const contador = botaoCurtir.querySelector("span");
         if(curtiu === false){
-            contador.textContent++;0
-            curtir+true;{
-                
-            }
+            contador.textContent++;
+            curtiu = true;
+        } else{ 
+            contador.textContent--;
+            curtiu=true;
         }
     }
     
-})
+});
 
-const btnTema = document.queryselector(".btn-tema");
-btnTema.addEventlistener("click", mudarTema);
+const btnTema = document.querySelector(".btn-tema");
+btnTema.addEventlListener("click", mudarTema);
 function mudarTema(){
       document.body.classList.toggle("tema-escuro");
 }
