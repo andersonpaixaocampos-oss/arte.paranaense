@@ -5,10 +5,10 @@
     --cor-secundaria: #e2fde1;
     --cor-hover: #17e417c0;
     --cor-superficie: #2225bb33;
-    --cor-card: #fc0303;
+    --cor-card: #b8b8b8;
     --cor-legenda: #000000;
     --cor-clara: #ffffff;
-    --cor-rodape: #f76767;
+    --cor-rodape: #ffffff;
 }
 
 .tema-escuro {
@@ -69,7 +69,7 @@ figcaption {
 }
 
 .card {
-    background-color: rgb(255, 8, 0);
+    background-color: rgb(134, 132, 255);
     padding: 15px;
     margin: 15px;
     border-left: 6px solid #445717;
